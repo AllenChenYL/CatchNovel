@@ -19,8 +19,8 @@
 <img src="https://github.com/Chen-Yi-Lun/CatchNovel/blob/main/3.JPG?raw=true"  width="700" height="300">
 
  ⬆圖二  點擊該小說某的章回後複製其網址
+ 
 <img src="https://github.com/Chen-Yi-Lun/CatchNovel/blob/main/2.jpg?raw=true"  width="700" height="300">
-
 
  ⬆圖三  匯出後點擊桌面Novel.html，使用Edge瀏覽器打開按右鍵即可使用大聲朗讀功能，使其變成有聲書。
  ## 結語
