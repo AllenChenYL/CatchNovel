@@ -21,6 +21,7 @@
  ⬆圖二  點擊該小說某的章回後複製其網址
 <img src="https://github.com/Chen-Yi-Lun/CatchNovel/blob/main/2.jpg?raw=true"  width="700" height="300">
 
+
  ⬆圖三  匯出後點擊桌面Novel.html，使用Edge瀏覽器打開按右鍵即可使用大聲朗讀功能，使其變成有聲書。
  ## 結語
  此程式為方便自己聽有聲書使用，若對爬蟲有興趣的小夥伴可以自己看看SourceCode看懂後自行再做修改(本人小菜雞只會基本的東西)，謝謝。
