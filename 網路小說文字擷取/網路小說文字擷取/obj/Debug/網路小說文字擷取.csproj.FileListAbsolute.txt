@@ -1,0 +1,15 @@
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\網路小說文字擷取.exe.config
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\網路小說文字擷取.exe
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\網路小說文字擷取.pdb
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\HtmlAgilityPack.dll
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\bin\Debug\HtmlAgilityPack.xml
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.csproj.AssemblyReference.cache
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.Main.resources
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.NovelSearch.resources
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.Properties.Resources.resources
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.csproj.GenerateResource.cache
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.csproj.CoreCompileInputs.cache
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.csproj.CopyComplete
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.exe
+C:\Users\isu10\Desktop\網路小說文字擷取\網路小說文字擷取\obj\Debug\網路小說文字擷取.pdb
